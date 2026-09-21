@@ -102,7 +102,7 @@ The EyeOfAI pipeline operates on a decoupled multi-threaded architecture. The di
                                           v
 +-----------------------------------------------------------------------------------+
 |                            PERSON ATTRIBUTE STORE (CACHE)                         |
-|  - Non-blocking Thread-Safe Attribute Retrieval (Emotion, Age, Gender, Action) |
+|  - Non-blocking Thread-Safe Attribute Retrieval (Emotion, Age, Gender, Action)    |
 |  - Automatic Garbage Collection for Terminated Track IDs                          |
 +-----------------------------------------------------------------------------------+
                                           |
