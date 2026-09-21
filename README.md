@@ -396,11 +396,8 @@ EyeOfAI-System/
 ├── EyeOfAI_System.ipynb      # Google Colab / Jupyter Notebook implementation
 ├── requirements.txt          # Complete Python package dependency manifest
 ├── README.md                 # System documentation & technical reference
+├── LICENSE                   # Project license and legal terms
 ├── Videos/                   # Directory containing demo test videos
-│   ├── demo_sample_1.mp4     # Pre-uploaded test clip for open-vocabulary evaluation
-│   ├── demo_sample_2.mp4     # Pre-uploaded test clip for action & face analytics
-│   └── README.md             # Guide on test video formats & usage
-└── eyeofai_debug.log         # Auto-generated runtime debug log file
 ```
 
 ---
@@ -444,11 +441,7 @@ EyeOfAI-System/
 
 ## Sample Demonstration Videos
 
-Pre-uploaded demonstration videos are included in the `Videos/` directory:
-* Users can evaluate system performance, open-vocabulary detection accuracy, and attribute analytics on these sample clips before connecting custom camera feeds or external video files.
-* To process a demonstration video, set the video input path in `EyeOfAI_System.py` or the notebook cell to:
-  ```python
-  video_input_path = "Videos/demo_sample_1.mp4"
+Pre-uploaded demonstration videos are included in the `Videos/` directory
   ```
 
 ---
@@ -507,7 +500,7 @@ The EyeOfAI System builds upon open-source research and model architectures. We 
 
 ## License & Attribution
 
-This project is released under the **MIT License**. You are free to use, modify, distribute, and integrate this software into academic research, personal projects, or commercial systems, provided proper credit and copyright notices are retained.
+This project is licensed under the **Apache License 2.0**. You are free to use, modify, distribute, and integrate this software into academic research, personal projects, or commercial systems, provided that proper copyright, patent, and attribution notices are preserved, and any modified files clearly state the changes made.
 
 ---
 *Maintained with excellence by Youssef Muhammad (Don-Youssef)*
