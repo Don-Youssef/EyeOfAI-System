@@ -67,7 +67,7 @@ The EyeOfAI pipeline operates on a decoupled multi-threaded architecture. The di
 +-----------------------------------------------------------------------------------+
 |                             PERFORMANCE GOVERNOR GATE                             |
 |  - Evaluates Rolling Average FPS against Target (e.g., 25 FPS)                    |
-|  - Selects Quality Level: FULL (L0) | REDUCED_FACE (L1) | LITE (L2)                 |
+|  - Selects Quality Level: FULL (L0) | REDUCED_FACE (L1) | LITE (L2)               |
 |  - Applies Dynamic Frame Downscaling & Skip Ratios                                |
 +-----------------------------------------------------------------------------------+
                                           |
@@ -102,7 +102,7 @@ The EyeOfAI pipeline operates on a decoupled multi-threaded architecture. The di
                                           v
 +-----------------------------------------------------------------------------------+
 |                            PERSON ATTRIBUTE STORE (CACHE)                         |
-|  - Non-blocking Thread-Safe Attribute Retrieval (Emotion, Age, Gender, Action)   |
+|  - Non-blocking Thread-Safe Attribute Retrieval (Emotion, Age, Gender, Action) |
 |  - Automatic Garbage Collection for Terminated Track IDs                          |
 +-----------------------------------------------------------------------------------+
                                           |
