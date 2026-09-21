@@ -397,7 +397,7 @@ EyeOfAI-System/
 ├── requirements.txt          # Complete Python package dependency manifest
 ├── README.md                 # System documentation & technical reference
 ├── LICENSE                   # Project license and legal terms
-├── Videos/                   # Directory containing demo test videos
+├── Videos/                   # Demonstration videos showcasing system testing and performance validation
 ```
 
 ---
@@ -439,9 +439,9 @@ EyeOfAI-System/
 
 ---
 
-## Sample Demonstration Videos
+## System Validation & Live Performance Demos
 
-Pre-uploaded demonstration videos are included in the `Videos/` directory
+Demonstration videos showcasing verified system execution, functionality, and real-world testing are available in the `videos/` directory.
 
 ---
 
