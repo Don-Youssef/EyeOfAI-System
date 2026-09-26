@@ -397,9 +397,10 @@ EyeOfAI-System/
 ├── EyeOfAI_System.py         # Main standalone Python system implementation
 ├── EyeOfAI_System.ipynb      # Google Colab / Jupyter Notebook implementation
 ├── requirements.txt          # Complete Python package dependency manifest
+├── .gitignore                # Ignore unnecessary files and large artifacts
 ├── README.md                 # System documentation & technical reference
 ├── LICENSE                   # Project license and legal terms
-├── Videos/                   # Demonstration videos showcasing system testing and performance validation
+└── Videos/                   # Demonstration videos showcasing system testing and performance validation
 ```
 
 ---
