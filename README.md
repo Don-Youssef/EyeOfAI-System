@@ -7,6 +7,7 @@
 [![Development Status](https://img.shields.io/badge/Status-Under_Active_Development-orange.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.10+-brightgreen.svg)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.3.0+cu121-red.svg)]()
+[![TensorFlow & Keras](https://img.shields.io/badge/Framework-TensorFlow%202.x%20%7C%20Keras-FF6F00.svg)](https://www.tensorflow.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8.svg)](https://opencv.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-013243.svg)](https://numpy.org/)
 [![Multi-Modal](https://img.shields.io/badge/Multi--Modal-Object%20Detection%20%7C%20Tracking%20%7C%20Facial%20Analysis%20%7C%20Action%20Recognition-blueviolet.svg)]()
