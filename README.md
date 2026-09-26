@@ -8,6 +8,8 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.3.0+cu121-red.svg)]()
 [![CUDA](https://img.shields.io/badge/CUDA-12.1-76B900.svg)]()
 
+> **An Enterprise-Grade, Multi-Modal Computer Vision Engine for Open-Vocabulary Detection, Temporal Object Tracking, Facial Telemetry, and Spatio-Temporal Action Recognition.**
+
 ---
 
 ## Executive Summary & Architectural Mastery
