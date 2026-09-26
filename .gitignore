@@ -1,0 +1,28 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Model Weights & Large Downloads
+*.pth
+*.pyth
+*.bin
+*.onnx
+*.engine
+/mvit_k700/
+/Detic/
+
+# System Logs & Debugging
+*.log
+eyeofai_debug.log
+
+# IDE & OS Settings
+.vscode/
+.idea/
+.DS_Store
