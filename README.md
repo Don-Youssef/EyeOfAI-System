@@ -447,7 +447,7 @@ EyeOfAI-System/
 
 ---
 
-## System Validation & Live Performance Demos
+## System Validation
 
 Demonstration videos showcasing verified system execution, functionality, and real-world testing are available in the `videos/` directory.
 
