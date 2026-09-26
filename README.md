@@ -7,6 +7,9 @@
 [![Development Status](https://img.shields.io/badge/Status-Under_Active_Development-orange.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.10+-brightgreen.svg)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.3.0+cu121-red.svg)]()
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8.svg)](https://opencv.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-013243.svg)](https://numpy.org/)
+[![Capabilities](https://img.shields.io/badge/Capabilities-Object_Detection_|_Tracking_|_Facial_Analysis_|_Action_Recognition-orange?style=for-the-badge)]()
 [![CUDA](https://img.shields.io/badge/CUDA-12.1-76B900.svg)]()
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
