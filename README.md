@@ -8,14 +8,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.3.0+cu121-red.svg)]()
 [![CUDA](https://img.shields.io/badge/CUDA-12.1-76B900.svg)]()
 
-> **An Enterprise-Grade, Multi-Modal Computer Vision Engine for Open-Vocabulary Detection, Temporal Object Tracking, Facial Telemetry, and Spatio-Temporal Action Recognition.**
-
----
-
-## Executive Summary & Architectural Mastery
-
-EyeOfAI System is a next-generation visual intelligence core engineered to break the fundamental boundaries of standard closed-set computer vision pipelines. Built over 6 months of rigorous architectural refactoring and latency optimization, EyeOfAI unifies multi-model inference into a single asynchronous, multi-threaded pipeline capable of real-time multi-dimensional spatial analysis without memory starvation or pipeline stalling.
-
 ---
 
 ## Executive Overview & Version Release Notes
