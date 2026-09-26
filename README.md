@@ -14,7 +14,7 @@
 
 Welcome to the official repository of the **EyeOfAI System (Version 1.0)**. 
 
-EyeOfAI is an enterprise-grade, multi-modal, real-time computer vision framework designed to perform open-vocabulary object detection across 21,000+ semantic categories, multi-object motion tracking, real-time facial telemetry (emotion classification, age estimation, gender identification), and temporal human action recognition (700 Kinetics classes) within a single unified processing pipeline.
+EyeOfAI is an enterprise-grade, multi-modal, real-time computer vision framework designed to perform open-vocabulary object detection across 21,000+ semantic categories, multi-object motion tracking, real-time facial telemetry (emotion classification, age estimation, gender identification), and temporal human action recognition (700 Kinetics classes) within a single unified processing pipeline for next-gen spatial intelligence.
 
 ### Engineering Development History
 Version 1.0 represents the culmination of **6 months of continuous intensive engineering, architectural refactoring, and benchmark optimization**. Building a multi-model pipeline that concurrently executes large vision-language backbones, face analytics networks, and 3D spatio-temporal video transformers without introducing pipeline starvation or out-of-memory (OOM) faults presented significant technical hurdles. 
