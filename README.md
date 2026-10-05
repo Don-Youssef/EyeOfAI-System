@@ -404,8 +404,7 @@ EyeOfAI-System/
 ├── requirements.txt          # Complete Python package dependency manifest
 ├── .gitignore                # Ignore unnecessary files and large artifacts
 ├── README.md                 # System documentation & technical reference
-├── LICENSE                   # Project license and legal terms
-└── Videos/                   # Demonstration videos showcasing system testing and performance validation
+└── LICENSE                   # Project license and legal terms
 ```
 
 ---
@@ -443,13 +442,14 @@ EyeOfAI-System/
    ```
 
 5. **Launch via Google Colab**:
-   Open `EyeOfAI_System.ipynb` in Google Colab, select a **T4 GPU** runtime environment, and execute all notebook cells sequentially.
+   Open `EyeOfAI_System.ipynb` in Google Colab, select a **GPU** runtime environment, and execute all notebook cells sequentially.
 
 ---
 
-## System Validation
+## System Demos & Validation
 
-Demonstration videos showcasing verified system execution, functionality, and real-world testing are available in the `videos/` directory.
+Demonstration videos showcasing verified system execution, functionality, and real-world testing are available in Google Drive Link. [![Open in Google Drive](https://img.shields.io/badge/Open_in-Google_Drive-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1d6EK5SmyQWbpmggmpsnb-HfvZnZN7UU5)
+
 
 ---
 
