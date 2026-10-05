@@ -3,6 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kOYURy8TVGIryGueFkyb3NKfmZQbl2bw#scrollTo=X0bdVfpHhSpK)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-EyeOfAI--System-181717?logo=github)](https://github.com/Don-Youssef/EyeOfAI-System?tab=readme-ov-file)
 [![System Version](https://img.shields.io/badge/Version-1.0.0--beta-blue.svg)]()
+[![System Validation Demos](https://img.shields.io/badge/Google_Drive-System_Validation_Demos-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1d6EK5SmyQWbpmggmpsnb-HfvZnZN7UU5)
 [![Architecture](https://img.shields.io/badge/Architecture-Decoupled_Compute-orange.svg)]()
 [![Development Status](https://img.shields.io/badge/Status-Under_Active_Development-orange.svg)]()
 [![Python](https://img.shields.io/badge/Python-3.10+-brightgreen.svg)]()
