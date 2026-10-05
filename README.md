@@ -448,7 +448,8 @@ EyeOfAI-System/
 
 ## System Demos & Validation
 
-Demonstration videos showcasing verified system execution, functionality, and real-world testing are available in Google Drive. [![Open in Google Drive](https://img.shields.io/badge/Open_in-Google_Drive-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1d6EK5SmyQWbpmggmpsnb-HfvZnZN7UU5)
+Demonstration videos showcasing verified system execution, functionality, and real-world testing are available in Google Drive.
+[![Open in Google Drive](https://img.shields.io/badge/Open_in-Google_Drive-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1d6EK5SmyQWbpmggmpsnb-HfvZnZN7UU5)
 
 
 ---
