@@ -1,20 +1,21 @@
 # EyeOfAI System: Real-Time Open-Vocabulary Visual Intelligence Core (v1.0)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kOYURy8TVGIryGueFkyb3NKfmZQbl2bw#scrollTo=X0bdVfpHhSpK)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-EyeOfAI--System-181717?logo=github)](https://github.com/Don-Youssef/EyeOfAI-System?tab=readme-ov-file)
+[![Open In Colab](https://img.shields.io/badge/Open_In_Colab-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1kOYURy8TVGIryGueFkyb3NKfmZQbl2bw#scrollTo=X0bdVfpHhSpK)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-EyeOfAI--System-181717?logo=github&logoColor=white)](https://github.com/Don-Youssef/EyeOfAI-System?tab=readme-ov-file)
 [![System Validation Demos](https://img.shields.io/badge/Google_Drive-System_Validation_Demos-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1d6EK5SmyQWbpmggmpsnb-HfvZnZN7UU5)
-[![System Version](https://img.shields.io/badge/Version-1.0.0--beta-blue?logo=git&logoColor=white)]()
-[![Architecture](https://img.shields.io/badge/Architecture-Decoupled_Compute-orange)]()
-[![Development Status](https://img.shields.io/badge/Status-Under_Active_Development-orange?logo=github&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)]()
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.3.0+cu121-EE4C2C?logo=pytorch&logoColor=white)]()
+[![System Version](https://img.shields.io/badge/Version-1.0.0--beta-F05032?logo=git&logoColor=white)]()
+[![Architecture](https://img.shields.io/badge/Architecture-Decoupled_Compute-0052CC)]()
+[![Development Status](https://img.shields.io/badge/Status-Under_Active_Development-239120?logo=github&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.3.0%2Bcu121-EE4C2C?logo=pytorch&logoColor=white)]()
 [![TensorFlow & Keras](https://img.shields.io/badge/Framework-TensorFlow%202.x%20%7C%20Keras-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.24%2B-013243?logo=numpy&logoColor=white)](https://numpy.org/)
-[![Multi-Modal](https://img.shields.io/badge/Multi--Modal-Object%20Detection%20%7C%20Tracking%20%7C%20Facial%20Analysis%20%7C%20Action%20Recognition-blueviolet)]()
+[![Multi-Modal](https://img.shields.io/badge/Multi--Modal-Object%20Detection%20%7C%20Tracking%20%7C%20Facial%20Analysis%20%7C%20Action%20Recognition-8A2BE2)]()
 [![CUDA](https://img.shields.io/badge/CUDA-12.1-76B900?logo=nvidia&logoColor=white)]()
-[![Domain](https://img.shields.io/badge/Domain-Computer%20Vision%20%26%20Multi--Modal-blueviolet)]()
+[![Domain](https://img.shields.io/badge/Domain-Computer%20Vision%20%26%20Multi--Modal-8A2BE2)]()
 [![License](https://img.shields.io/badge/License-Apache_2.0-D22128?logo=apache&logoColor=white)](LICENSE)
+
 
 
 ---
