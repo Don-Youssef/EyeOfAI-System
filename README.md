@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-D22128?logo=apache&logoColor=white)](LICENSE)
 [![Development Status](https://img.shields.io/badge/Status-Under_Active_Development-239120?logo=github&logoColor=white)]()
 [![System Version](https://img.shields.io/badge/Version-1.0.0--beta-F05032?logo=git&logoColor=white)]()
-[![Domain](https://img.shields.io/badge/Domain-Spatial%20AI%20%Computer%20Vision%20%26%20Multi--Modal-8A2BE2)]()
+[![Domain](https://img.shields.io/badge/Domain-Spatial%20AI%20%26%20Computer%20Vision%20%26%20Multi--Modal-8A2BE2)]()
 [![Architecture](https://img.shields.io/badge/Architecture-Decoupled_Compute-0052CC)]()
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.3.0%2Bcu121-EE4C2C?logo=pytorch&logoColor=white)]()
